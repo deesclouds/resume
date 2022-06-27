@@ -3,7 +3,7 @@ Crafted this resume for a great software engineering role at an awesome company 
 
 **Link to project:** [https://resume.io/r/7R1NKi50L]
 
-![image of resume](https://ibb.co/QbWGV2s)
+![resume](<a href="https://i.ibb.co/Sskpghq/resume.png"</a>
 
 ## How It's Made:
 
